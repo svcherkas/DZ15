@@ -16,4 +16,4 @@ X = np.hstack((np.ones((X.shape[0], 1)), X))
 # Инициализация начальных значений параметров
 theta = np.zeros((X.shape[1], 1))
 alpha = 0.01
-iterations = 1000
+iterations = 1000g
